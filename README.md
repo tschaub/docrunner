@@ -13,3 +13,12 @@ Docrunner differs from other doctest type solutions in a number of ways:
     comments `// =>`)
  * allows copy/paste of snippets directly to/from the repl
  * handles async assertions and errors naturally
+
+
+## Tests
+
+See what works by running the [tests](test).
+
+    npm test
+
+[![Current Status](https://secure.travis-ci.org/tschaub/docrunner.png?branch=master)](https://travis-ci.org/tschaub/docrunner)

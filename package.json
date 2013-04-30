@@ -1,0 +1,36 @@
+{
+  "name": "docrunner",
+  "version": "0.0.0",
+  "description": "Find bugs in your docs by running them first",
+  "keywords": [
+    "doctest",
+    "doc",
+    "test"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://tschaub.mit-license.org/"
+    }
+  ],
+  "author": {
+    "name": "Tim Schaub",
+    "url": "http://tschaub.net/"
+  },
+  "homepage": "https://github.com/tschaub/docrunner",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tschaub/docrunner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tschaub/docrunner/issues"
+  },
+  "devDependencies": {
+    "mocha": "1.9.0",
+    "chai": "1.6.0"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/**/*.spec.js --recursive --reporter spec"
+  }
+}

@@ -32,7 +32,7 @@ describe('runScript()', function() {
           });
         });
       });
-    }    
+    }
   }
 
   for (var script in cases) {

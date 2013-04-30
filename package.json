@@ -1,6 +1,6 @@
 {
   "name": "docrunner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Find bugs in your docs by running them first",
   "keywords": [
     "doctest",

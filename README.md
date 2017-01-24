@@ -1,5 +1,7 @@
 # docrunner
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tschaub/docrunner.svg)](https://greenkeeper.io/)
+
 **Broken docs suck**
 
 Run your docs before publishing them.
